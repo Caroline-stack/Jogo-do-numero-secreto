@@ -10,6 +10,8 @@
 
 # Autora
 
-![Foto da Autora](![Photoroom-20250125_183756](https://github.com/user-attachments/assets/6087882a-dd5a-4999-9377-344e59f1facd)
+<img src="C:\Users\conta\Downloads\professional_neutral_photo.png"
+ alt="Foto da autora" width="200px" height="200px">
+
 
 
