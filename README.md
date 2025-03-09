@@ -4,9 +4,10 @@
 <p>Projeto utilizado nos cursos de lógica de programação da Alura</p>
 
 ## 🚀 Tecnologias
-![HTML Logo](file:///C:/Users/conta/Downloads/html-1.svg)
-![CSS Logo](file:///C:/Users/conta/Downloads/css-3.svg)
-![JavaScript Logo](file:///C:/Users/conta/Downloads/javascript-1.svg)
+HTML5
+CSS3
+JavaScript
+
 
 # Autora
 
