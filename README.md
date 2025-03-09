@@ -11,7 +11,7 @@
 
 # Autora
 
-<img src="C:\Users\conta\Downloads\professional_neutral_photo.png"
+<img src="https://github.com/Caroline-stack/Jogo-do-numero-secreto/commit/c177241f156e686a696de35cd98b5137a5329d8a"
  alt="Foto da autora" width="200px" height="200px">
 
 
