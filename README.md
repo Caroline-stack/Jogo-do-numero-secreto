@@ -4,9 +4,7 @@
 <p>Projeto utilizado nos cursos de lógica de programação da Alura</p>
 
 ## 🚀 Tecnologias
-<p>HTML5</p>
-<p>CSS3</p>
-<p>JavaScript</p>
+<img src="https://raw.githubusercontent.com/Caroline-stack/Jogo-do-numero-secreto/06fdc420bb60a4e5bf86dc810df03402aa595ade/html-1.svg"  alt="Imagem HTML5" width="50px" height="50px">
 
 
 # Autora
