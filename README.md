@@ -4,9 +4,9 @@
 <p>Projeto utilizado nos cursos de lógica de programação da Alura</p>
 
 ## 🚀 Tecnologias
-HTML5
-CSS3
-JavaScript
+<p>HTML5</p>
+<p>CSS3</p>
+<p>JavaScript</p>
 
 
 # Autora
